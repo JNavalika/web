@@ -9,12 +9,9 @@ This is a small (still incomplete) e-commerce project made with HTML/CSS, focuse
 - [x]  Session-based shopping cart
 - [x]  Customer Registration and Login
 
-## Installation
-
-Below is a list of commands to clone and configure this project on your local machine:
 ### Repository:
 
-
+https://jnavalika.github.io/web/
 
 ### Requirements:
 '''
