@@ -19,4 +19,4 @@ Windows 10
 VS Code
 '''
 ## Screenshot:
-![image](https://user-images.githubusercontent.com/88698720/162589993-c0a8b79f-b435-4b7c-875e-923dfb708f34.png)
+![image](https://github.com/JNavalika/web/blob/main/6.PNG)
