@@ -23,7 +23,7 @@ VS Code
 
 ![image](https://github.com/JNavalika/web/blob/main/1.PNG)
 
-![image]()
+![image](https://github.com/JNavalika/web/blob/main/2.PNG)
 
 ![image]()
 
